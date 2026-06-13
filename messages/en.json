@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "experience": "Experience",
+    "stack": "Stack",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Pedro Lima",
+    "role": "Senior Front-end Engineer",
+    "pitch": "Specialized in React, TypeScript, Vue and Micro Frontends — with fullstack experience, from design systems to APIs.",
+    "location": "Brasília, Brazil (UTC-3) — open to remote",
+    "cta": {
+      "projects": "View projects",
+      "cv": "Download CV",
+      "contact": "Get in touch"
+    }
+  },
+  "about": {
+    "title": "About me",
+    "p1": "Front-end Developer with 5+ years of experience building, evolving and supporting web applications for the financial, healthcare and HR-tech sectors.",
+    "p2": "I work with React, Vue.js, Angular and TypeScript on Micro Frontend architectures, Design Systems and component documentation. I also have backend experience — Node.js, REST APIs, PostgreSQL and MongoDB — which lets me collaborate end to end.",
+    "p3": "Bachelor's degree in Software Engineering from the University of Brasília. English: advanced (C1)."
+  },
+  "projects": {
+    "title": "Selected projects",
+    "subtitle": "Professional case studies with context, technical decisions and results.",
+    "viewCase": "Read full case study",
+    "viewAll": "View all projects",
+    "listTitle": "Projects",
+    "listSubtitle": "Detailed professional case studies and open-source personal projects.",
+    "professional": "Professional case studies",
+    "personal": "Personal projects",
+    "personalSubtitle": "Open source on my GitHub — where I also showcase my backend skills.",
+    "viewRepo": "View repository",
+    "viewDemo": "View demo",
+    "backToProjects": "Back to projects",
+    "role": "My role",
+    "period": "Period",
+    "company": "Company",
+    "stack": "Tech stack"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey.",
+    "present": "Present",
+    "viewLinkedin": "View full profile on LinkedIn"
+  },
+  "stack": {
+    "title": "Stack & Skills",
+    "subtitle": "Technologies I use daily, grouped by area.",
+    "groups": {
+      "frontend": "Frontend",
+      "architecture": "Architecture & Quality",
+      "backend": "Backend",
+      "devops": "DevOps & Tools"
+    }
+  },
+  "contact": {
+    "title": "Let's talk",
+    "subtitle": "I'm open to new opportunities. Reach out through your preferred channel.",
+    "email": "Send an email",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "cv": "Download CV (PDF)"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with Next.js, TypeScript and Tailwind CSS."
+  },
+  "meta": {
+    "title": "Pedro Lima — Senior Front-end Engineer",
+    "description": "Senior Front-end Engineer specialized in React, TypeScript, Vue and Micro Frontends, with fullstack experience. 5+ years building scalable web applications for the financial, healthcare and HR-tech sectors."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The content you are looking for does not exist or has been moved.",
+    "back": "Back to home"
+  }
+}

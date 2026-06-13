@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Início",
+    "projects": "Projetos",
+    "experience": "Experiência",
+    "stack": "Stack",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Pedro Lima",
+    "role": "Desenvolvedor Front-end Sênior",
+    "pitch": "Especialista em React, TypeScript, Vue e Micro Frontends — com experiência fullstack, do design system à API.",
+    "location": "Brasília, DF — Brasil",
+    "cta": {
+      "projects": "Ver projetos",
+      "cv": "Baixar CV",
+      "contact": "Falar comigo"
+    }
+  },
+  "about": {
+    "title": "Sobre mim",
+    "p1": "Desenvolvedor Front-end com mais de 5 anos de experiência construindo, evoluindo e sustentando aplicações web para os setores financeiro, de saúde e de gestão de pessoas.",
+    "p2": "Atuo com React, Vue.js, Angular e TypeScript em arquiteturas de Micro Frontends, Design Systems e documentação de componentes. Também tenho experiência com backend — Node.js, APIs REST, PostgreSQL e MongoDB — o que me permite colaborar de ponta a ponta.",
+    "p3": "Formado em Engenharia de Software pela Universidade de Brasília. Inglês avançado (C1)."
+  },
+  "projects": {
+    "title": "Projetos em destaque",
+    "subtitle": "Cases profissionais com contexto, decisões técnicas e resultados.",
+    "viewCase": "Ver case completo",
+    "viewAll": "Ver todos os projetos",
+    "listTitle": "Projetos",
+    "listSubtitle": "Cases profissionais detalhados e projetos pessoais com código aberto.",
+    "professional": "Cases profissionais",
+    "personal": "Projetos pessoais",
+    "personalSubtitle": "Código aberto no meu GitHub — onde também mostro meu lado backend.",
+    "viewRepo": "Ver repositório",
+    "viewDemo": "Ver demo",
+    "backToProjects": "Voltar para projetos",
+    "role": "Meu papel",
+    "period": "Período",
+    "company": "Empresa",
+    "stack": "Stack utilizada"
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Minha trajetória profissional.",
+    "present": "Atual",
+    "viewLinkedin": "Ver perfil completo no LinkedIn"
+  },
+  "stack": {
+    "title": "Stack & Habilidades",
+    "subtitle": "Tecnologias que uso no dia a dia, agrupadas por área.",
+    "groups": {
+      "frontend": "Frontend",
+      "architecture": "Arquitetura & Qualidade",
+      "backend": "Backend",
+      "devops": "DevOps & Ferramentas"
+    }
+  },
+  "contact": {
+    "title": "Vamos conversar?",
+    "subtitle": "Estou aberto a novas oportunidades. Me chame por onde preferir.",
+    "email": "Enviar email",
+    "whatsapp": "Chamar no WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "cv": "Baixar CV (PDF)"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "builtWith": "Feito com Next.js, TypeScript e Tailwind CSS."
+  },
+  "meta": {
+    "title": "Pedro Lima — Desenvolvedor Front-end Sênior",
+    "description": "Desenvolvedor Front-end Sênior especialista em React, TypeScript, Vue e Micro Frontends, com experiência fullstack. 5+ anos construindo aplicações web escaláveis para os setores financeiro, saúde e gestão de pessoas."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "O conteúdo que você procura não existe ou foi movido.",
+    "back": "Voltar para o início"
+  }
+}
