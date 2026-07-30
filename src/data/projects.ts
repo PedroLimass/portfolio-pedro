@@ -89,8 +89,8 @@ export const professionalProjects: ProfessionalProject[] = [
       en: "Frontend Engineer",
     },
     period: {
-      pt: "Ago 2022 — Out 2024",
-      en: "Aug 2022 — Oct 2024",
+      pt: "Jun 2021 — Out 2024",
+      en: "Jun 2021 — Oct 2024",
     },
     tags: [
       "React.js",
