@@ -9,8 +9,8 @@
   "hero": {
     "greeting": "Olá, eu sou",
     "name": "Pedro Lima",
-    "role": "Desenvolvedor Front-end Sênior",
-    "pitch": "Especialista em React, TypeScript, Vue e Micro Frontends — com experiência fullstack, do design system à API.",
+    "role": "Senior Software Engineer | Especialista em React.js",
+    "pitch": "TypeScript · Next.js · Plataformas web escaláveis — 7 anos construindo e modernizando aplicações em serviços financeiros, saúde, RH, serviços públicos e produtos digitais.",
     "location": "Brasília, DF — Brasil",
     "cta": {
       "projects": "Ver projetos",
@@ -20,9 +20,9 @@
   },
   "about": {
     "title": "Sobre mim",
-    "p1": "Desenvolvedor Front-end com mais de 5 anos de experiência construindo, evoluindo e sustentando aplicações web para os setores financeiro, de saúde e de gestão de pessoas.",
-    "p2": "Atuo com React, Vue.js, Angular e TypeScript em arquiteturas de Micro Frontends, Design Systems e documentação de componentes. Também tenho experiência com backend — Node.js, APIs REST, PostgreSQL e MongoDB — o que me permite colaborar de ponta a ponta.",
-    "p3": "Formado em Engenharia de Software pela Universidade de Brasília. Inglês avançado (C1)."
+    "p1": "Senior Frontend Engineer com 7 anos de experiência construindo, modernizando e sustentando aplicações web escaláveis em serviços financeiros, saúde, recursos humanos, serviços públicos e produtos digitais. Minha especialidade inclui React.js, Next.js, TypeScript, JavaScript, arquitetura frontend e Vue.js, complementada por experiência profissional com Angular e tecnologias fullstack.",
+    "p2": "Contribuí em produtos complexos desde o refinamento técnico e decisões de arquitetura até a implementação, testes automatizados, integração com APIs REST e entrega em produção. Minha experiência inclui Micro Frontends com Module Federation, arquitetura de componentes reutilizáveis, Design Systems, Style Dictionary, Storybook, Jest, Vitest, Testing Library, Docker e Nginx — iniciativas que melhoraram a consistência da interface, reduziram o risco de regressão, fortaleceram a manutenibilidade e apoiaram a evolução contínua de aplicações em produção.",
+    "p3": "Trabalho em estreita colaboração com times de Produto, Design, Backend e Qualidade para traduzir requisitos de negócio em soluções técnicas confiáveis e manuteníveis. Minha abordagem combina ownership de produto, consciência de arquitetura, code review, performance, acessibilidade, testes e melhoria contínua — o que me posiciona para contribuir em times de engenharia de produto internacionais e distribuídos."
   },
   "projects": {
     "title": "Projetos em destaque",
@@ -72,8 +72,8 @@
     "builtWith": "Feito com Next.js, TypeScript e Tailwind CSS."
   },
   "meta": {
-    "title": "Pedro Lima — Desenvolvedor Front-end Sênior",
-    "description": "Desenvolvedor Front-end Sênior especialista em React, TypeScript, Vue e Micro Frontends, com experiência fullstack. 5+ anos construindo aplicações web escaláveis para os setores financeiro, saúde e gestão de pessoas."
+    "title": "Pedro Lima — Senior Software Engineer | React.js Specialist",
+    "description": "Senior Frontend Engineer com 7 anos de experiência em React.js, Next.js, TypeScript e arquitetura frontend. Especialista em plataformas web escaláveis para serviços financeiros, saúde, RH e produtos digitais."
   },
   "notFound": {
     "title": "Página não encontrada",

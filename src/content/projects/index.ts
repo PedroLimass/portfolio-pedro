@@ -12,12 +12,12 @@ export const caseContent: Record<string, Record<Locale, CaseModule>> = {
     pt: () => import("./healthcare-platform/pt.mdx"),
     en: () => import("./healthcare-platform/en.mdx"),
   },
-  "voors-people-management": {
-    pt: () => import("./voors-people-management/pt.mdx"),
-    en: () => import("./voors-people-management/en.mdx"),
+  "retail-consumer-apps": {
+    pt: () => import("./retail-consumer-apps/pt.mdx"),
+    en: () => import("./retail-consumer-apps/en.mdx"),
   },
-  "detran-integration": {
-    pt: () => import("./detran-integration/pt.mdx"),
-    en: () => import("./detran-integration/en.mdx"),
+  "lift-learning-fintech": {
+    pt: () => import("./lift-learning-fintech/pt.mdx"),
+    en: () => import("./lift-learning-fintech/en.mdx"),
   },
 };

@@ -79,10 +79,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
     "@context": "https://schema.org",
     "@type": "Person",
     name: site.name,
-    jobTitle:
-      locale === "pt"
-        ? "Desenvolvedor Front-end Sênior"
-        : "Senior Front-end Engineer",
+    jobTitle: "Senior Software Engineer | React.js Specialist",
     email: site.email,
     url: site.url,
     sameAs: [site.github, site.linkedin],
