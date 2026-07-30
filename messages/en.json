@@ -9,8 +9,8 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Pedro Lima",
-    "role": "Senior Software Engineer | React.js Specialist",
-    "pitch": "TypeScript · Next.js · Scalable web platforms — 7 years building and modernizing applications across financial services, healthcare, HR, public services, and digital products.",
+    "role": "Senior Software Engineer | React.js Specialist | TypeScript | Next.js | Scalable Web Platforms",
+    "pitch": "7 years building, modernizing, and supporting scalable web applications across financial services, healthcare, HR, public services, and digital products.",
     "location": "Brasília, Brazil (UTC-3) — open to remote",
     "cta": {
       "projects": "View projects",
@@ -72,8 +72,8 @@
     "builtWith": "Built with Next.js, TypeScript and Tailwind CSS."
   },
   "meta": {
-    "title": "Pedro Lima — Senior Software Engineer | React.js Specialist",
-    "description": "Senior Frontend Engineer with 7 years of experience in React.js, Next.js, TypeScript and frontend architecture. Specialist in scalable web platforms for financial services, healthcare, HR and digital products."
+    "title": "Pedro Lima — Senior Software Engineer | React.js Specialist | TypeScript | Next.js",
+    "description": "Senior Software Engineer | React.js Specialist | TypeScript | Next.js | Scalable Web Platforms. 7 years building scalable web applications across financial services, healthcare, HR and digital products."
   },
   "notFound": {
     "title": "Page not found",

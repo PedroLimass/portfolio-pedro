@@ -26,11 +26,13 @@ export async function Hero({ locale }: { locale: Locale }) {
 
         <h1 className="mt-4 text-4xl font-bold tracking-tight sm:text-6xl">
           {t("greeting")} <span className="text-gradient">{t("name")}</span>
-          <br />
-          {t("role")}
         </h1>
 
-        <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted">
+        <p className="mt-4 max-w-3xl text-lg font-medium leading-snug text-foreground sm:text-xl">
+          {t("role")}
+        </p>
+
+        <p className="mt-4 max-w-2xl text-base leading-relaxed text-muted sm:text-lg">
           {t("pitch")}
         </p>
 

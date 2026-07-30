@@ -26,8 +26,8 @@ export const professionalProjects: ProfessionalProject[] = [
     },
     company: "Zappts",
     role: {
-      pt: "Senior Frontend Engineer",
-      en: "Senior Frontend Engineer",
+      pt: "Senior Software Engineer",
+      en: "Senior Software Engineer",
     },
     period: {
       pt: "Nov 2025 — Atual",
@@ -56,12 +56,12 @@ export const professionalProjects: ProfessionalProject[] = [
     },
     company: "Fin-X",
     role: {
-      pt: "Frontend Software Engineer — Consultor",
-      en: "Frontend Software Engineer — Consultant",
+      pt: "Software Engineer",
+      en: "Software Engineer",
     },
     period: {
-      pt: "Nov 2024 — Abr 2026",
-      en: "Nov 2024 — Apr 2026",
+      pt: "Nov 2024 — Nov 2025",
+      en: "Nov 2024 — Nov 2025",
     },
     tags: [
       "Vue.js",
@@ -89,8 +89,8 @@ export const professionalProjects: ProfessionalProject[] = [
       en: "Frontend Engineer",
     },
     period: {
-      pt: "Jun 2021 — Out 2024",
-      en: "Jun 2021 — Oct 2024",
+      pt: "Ago 2022 — Out 2024",
+      en: "Aug 2022 — Oct 2024",
     },
     tags: [
       "React.js",
@@ -115,8 +115,8 @@ export const professionalProjects: ProfessionalProject[] = [
     },
     company: "Math Analytics",
     role: {
-      pt: "Full-Stack Software Engineer",
-      en: "Full-Stack Software Engineer",
+      pt: "Full Stack Engineer",
+      en: "Full Stack Engineer",
     },
     period: {
       pt: "Mar 2022 — Set 2022",

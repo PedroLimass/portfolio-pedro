@@ -23,7 +23,7 @@ export async function Experience({ locale }: { locale: Locale }) {
 
       <ol className="relative mt-10 space-y-10 border-l border-border pl-6 sm:pl-8">
         {experiences.map((exp, i) => (
-          <Reveal key={`${exp.company}-${exp.period.en}`} delay={i * 0.05}>
+          <Reveal key={`${exp.company}-${exp.role.en}-${exp.period.en}`} delay={i * 0.05}>
             <li className="relative">
               <span
                 className="bg-gradient-accent absolute -left-[31px] top-1.5 size-3 rounded-full ring-4 ring-background sm:-left-[39px]"
@@ -38,16 +38,18 @@ export async function Experience({ locale }: { locale: Locale }) {
               <p className="mt-0.5 font-mono text-xs text-muted">
                 {exp.period[locale]}
               </p>
-              <ul className="mt-3 max-w-2xl space-y-2">
-                {exp.highlights.map((highlight) => (
-                  <li
-                    key={highlight.en}
-                    className="relative pl-4 text-sm leading-relaxed text-muted before:absolute before:left-0 before:top-[0.55em] before:size-1.5 before:rounded-full before:bg-accent"
-                  >
-                    {highlight[locale]}
-                  </li>
-                ))}
-              </ul>
+              {exp.highlights.length > 0 && (
+                <ul className="mt-3 max-w-2xl space-y-2">
+                  {exp.highlights.map((highlight) => (
+                    <li
+                      key={highlight.en}
+                      className="relative pl-4 text-sm leading-relaxed text-muted before:absolute before:left-0 before:top-[0.55em] before:size-1.5 before:rounded-full before:bg-accent"
+                    >
+                      {highlight[locale]}
+                    </li>
+                  ))}
+                </ul>
+              )}
               <div className="mt-3 flex flex-wrap gap-1.5">
                 {exp.tags.slice(0, 8).map((tag) => (
                   <Tag key={tag}>{tag}</Tag>

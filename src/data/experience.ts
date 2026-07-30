@@ -14,8 +14,8 @@ export const experiences: Experience[] = [
   {
     company: "Zappts",
     role: {
-      pt: "Senior Frontend Engineer",
-      en: "Senior Frontend Engineer",
+      pt: "Senior Software Engineer",
+      en: "Senior Software Engineer",
     },
     period: { pt: "Nov 2025 — Atual", en: "Nov 2025 — Present" },
     highlights: [
@@ -49,10 +49,10 @@ export const experiences: Experience[] = [
   {
     company: "Fin-X",
     role: {
-      pt: "Frontend Software Engineer — Consultor",
-      en: "Frontend Software Engineer — Consultant",
+      pt: "Software Engineer",
+      en: "Software Engineer",
     },
-    period: { pt: "Nov 2024 — Abr 2026", en: "Nov 2024 — Apr 2026" },
+    period: { pt: "Nov 2024 — Nov 2025", en: "Nov 2024 — Nov 2025" },
     highlights: [
       {
         pt: "Mantive e evoluí uma plataforma web de saúde com regras de negócio complexas, sustentando fluxos críticos de agendamento e funcionalidades em produção com Vue.js, JavaScript, TypeScript, HTML e CSS.",
@@ -87,7 +87,7 @@ export const experiences: Experience[] = [
       pt: "Frontend Engineer",
       en: "Frontend Engineer",
     },
-    period: { pt: "Jun 2021 — Out 2024", en: "Jun 2021 — Oct 2024" },
+    period: { pt: "Ago 2022 — Out 2024", en: "Aug 2022 — Oct 2024" },
     highlights: [
       {
         pt: "Desenvolvi e mantive aplicações web e mobile para clientes dos setores de consumo e varejo, incluindo Burger King, Popeyes Louisiana Chicken e C&A, com React.js, JavaScript, TypeScript, HTML e CSS.",
@@ -117,10 +117,20 @@ export const experiences: Experience[] = [
     ],
   },
   {
+    company: "Zappts",
+    role: {
+      pt: "Desenvolvedor Front-End Junior",
+      en: "Desenvolvedor Front-End Junior",
+    },
+    period: { pt: "Jun 2021 — Ago 2022", en: "Jun 2021 — Aug 2022" },
+    highlights: [],
+    tags: ["React.js", "JavaScript", "HTML5", "CSS3"],
+  },
+  {
     company: "Math Analytics",
     role: {
-      pt: "Full-Stack Software Engineer",
-      en: "Full-Stack Software Engineer",
+      pt: "Full Stack Engineer",
+      en: "Full Stack Engineer",
     },
     period: { pt: "Mar 2022 — Set 2022", en: "Mar 2022 — Sep 2022" },
     highlights: [
@@ -154,8 +164,8 @@ export const experiences: Experience[] = [
   {
     company: "Orc'estra Gamificação",
     role: {
-      pt: "Technical Project Manager",
-      en: "Technical Project Manager",
+      pt: "Project Manager",
+      en: "Project Manager",
     },
     period: { pt: "Jan 2021 — Out 2021", en: "Jan 2021 — Oct 2021" },
     highlights: [
@@ -188,8 +198,8 @@ export const experiences: Experience[] = [
   {
     company: "Universidade de Brasília",
     role: {
-      pt: "Full-Stack Software Developer",
-      en: "Full-Stack Software Developer",
+      pt: "Software Engineer",
+      en: "Software Engineer",
     },
     period: { pt: "Jun 2020 — Dez 2020", en: "Jun 2020 — Dec 2020" },
     highlights: [
